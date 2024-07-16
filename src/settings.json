@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights.",
+        "title": "Achieve Harmony with Caty"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Achieve Harmony with Caty",
+  "subtitle": "Redefine Your Work-Life Balance with Our Comprehensive Tools and Insights."
+}
